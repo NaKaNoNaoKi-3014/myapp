@@ -31,6 +31,17 @@ h2 {
     margin: 20px auto;
 }
 
-ul > li{
+ul > li {
     margin-bottom: 5px;
+}
+
+.logo {
+    width: 400px;
+    height: 50px;
+}
+
+.header-menu {
+    font-size: 12px;
+    font-weight: normal;
+    float: right;
 }

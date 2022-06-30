@@ -20,4 +20,10 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  posts:
+    index:
+      add_new: Add New
+      confirm: Sure to delete?
+      delete: Delete
+      edit: Edit
   hello: "Hello world"

@@ -1,6 +1,13 @@
 ---
 ja:
+  users:
+    form:
+      cancel: キャンセル
   posts:
+    signin:
+      signin: サインイン
+      signout: サインアウト
+      signup: サインアップ
     index:
       add_new: 新規登録
       confirm: 本当に削除しますか？
